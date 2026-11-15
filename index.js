@@ -19,7 +19,7 @@ const __dirname = path.dirname(__filename);
 
 const program = new Command();
 
-const DEFAULT_REPO = 'https://github.com/alphabit-technology/loopar-framework.git';
+const DEFAULT_REPO = 'https://github.com/alphabitech/loopar-framework.git';
 /** Recommended Yarn release when activating via Corepack (any 4.x.x is accepted at runtime). */
 const RECOMMENDED_YARN_VERSION = '4.18.1';
 const REQUIRED_YARN_MAJOR = 4;
@@ -1013,7 +1013,7 @@ function printSuccessMessage(folderName, port, yarnInfo, { installed = true } = 
   console.log(chalk.gray('   Tenants are managed from the TUI or from the Desk (Tenant Manager) of the dev tenant.\n'));
 
   console.log(chalk.gray('📚 Docs: ') + chalk.blue.underline('https://loopar.build'));
-  console.log(chalk.gray('💬 Issues: ') + chalk.blue.underline('https://github.com/alphabit-technology/loopar-framework/issues\n'));
+  console.log(chalk.gray('💬 Issues: ') + chalk.blue.underline('https://github.com/alphabitech/loopar-framework/issues\n'));
 }
 
 /**

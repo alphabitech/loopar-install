@@ -87,4 +87,4 @@ npm run test:smoke
 ## Links
 
 - [Loopar docs](https://loopar.build)
-- [Framework issues](https://github.com/alphabit-technology/loopar-framework/issues)
+- [Framework issues](https://github.com/alphabitech/loopar-framework/issues)

@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alphabit-technology/install-loopar.git"
+    "url": "git+https://github.com/alphabitech/loopar-install.git"
   },
   "keywords": [
     "loopar",
@@ -32,7 +32,7 @@
   "author": "Alfredo Ramirez <alfredrz2012@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/alphabit-technology/install-loopar/issues"
+    "url": "https://github.com/alphabitech/loopar-install/issues"
   },
   "homepage": "https://loopar.build",
   "engines": {
