@@ -56,3 +56,12 @@ public/js/components
 /path
 
 !/.loopar/apps
+
+#test-full
+test
+test-full
+
+# loopar-install npm test / local dry-run folder
+.tmp-loopar-test
+my-loopar-test/
+index copy.js
